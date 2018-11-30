@@ -8,23 +8,23 @@
 * [Miscellaneous](###Miscellaneous)
 * [Sources](###Sources)
 ----
-<details><summary> ### Quantum Computation and Quantum Information </summary>
+<details><summary>Quantum Computation and Quantum Information</summary>
  <p>
-#### Courses
-##### Beginners
-##### Intermediate
-##### Advanced
-#### Lecture notes
-* [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/) by _J. Watrous_.
-* [Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html) by _J. Preskill_.
-* [Quantum Computing](https://homepages.cwi.nl/~rdewolf/qc11.html) by _R. de Wolf_.
-#### Textbook(s)
-* [Quantum Computation and Quantum Information: 10th Anniversary Edition](https://dl.acm.org/citation.cfm?id=1972505) by _M. Nielsen and I. Chuang._ - [PDF](http://csis.pace.edu/ctappert/cs837-18spring/QC-textbook.pdf)
-
-#### Blogs
-#### Wikis
-#### Papers
-</p>
+  #### Courses
+  ##### Beginners
+  ##### Intermediate
+  ##### Advanced
+  #### Lecture notes
+  * [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/) by _J. Watrous_.
+  * [Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html) by _J. Preskill_.
+  * [Quantum Computing](https://homepages.cwi.nl/~rdewolf/qc11.html) by _R. de Wolf_.
+  #### Textbook(s)
+  * [Quantum Computation and Quantum Information: 10th Anniversary Edition](https://dl.acm.org/citation.cfm?id=1972505) by _M. Nielsen and I. Chuang._ - [PDF](http://csis.pace.edu/ctappert/cs837-18spring/QC-textbook.pdf)
+  #### Blogs
+  #### Wikis
+  #### Papers
+ </p>
+</details>
 -----
 ### Quantum Machine Learning
 #### Courses
