@@ -10,13 +10,13 @@
 ----
 <details><summary><h3>Quantum Computation and Quantum Information</h3></summary>
  <p>
-  
-  <details><summary><h4>Courses</h4></summary></button>
-<p>
+  <details><summary><h4>Courses</h4></summary></summary>
+ <p>
+ 
  <h5>Beginners</h5>
  <h5>Intermediate</h5>
  <h5>Advanced</h5>
-</p>
+ </p>
   
   #### Lecture notes
   * [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/) by _J. Watrous_.
