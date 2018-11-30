@@ -1,8 +1,7 @@
 <h1>Quantum-Computing</h1>
-
 <details><summary>Quantum Computation and Quantum Information</summary>
 <ul style="list-style-type:none">
-    <details><summary>Courses</summary>
+    <li><details><summary>Courses</summary>
     <ul style="list-style-type:none">
         <li><details><summary>Beginners</summary>
         </details></li>
@@ -10,7 +9,8 @@
         </details></li>
         <li><details><summary>Advanced</summary>
         </details></li>
-    </details></ul>
+    </ul>
+    </details></li>
     <li><details><summary>Lecture notes</summary>
     <ul style="list-style-type:circle">
         <li><a href="https://cs.uwaterloo.ca/~watrous/TQI/">The Theory of Quantum Information</a> by <i>J. Watrous</i>.</li>
