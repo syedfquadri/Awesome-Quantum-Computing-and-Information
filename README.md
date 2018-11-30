@@ -2,21 +2,21 @@
  
 
 ## Table of Content
-* [Quantum Computation and Quantum Information](###Quantum-Computation-and-Quantum-Information)
+* [Quantum Computation and Quantum Information](Quantum-Computation-and-Quantum-Information)
 * [Quantum Machine Learning](###Quantum-Machine-Learning)
 * [Quantum Cryptography](###Quantum-Cryptography)
 * [Miscellaneous](###Miscellaneous)
 * [Sources](###Sources)
 ----
+<div>
 <details>
- <summary>
-  <h3>Quantum Computation and Quantum Information<\h3>
- </summary>
+ <summary><h3>Quantum Computation and Quantum Information<\h3></summary>
+  
  <p>
   <h4>Courses</h4>
-  ##### Beginners
-  ##### Intermediate
-  ##### Advanced
+   <h5>Beginners</h5>
+  <h5>Intermediate</h5>
+  <h5>Advanced</h5>
   <h4>Lecture notes</h4>
   * [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/) by _J. Watrous_.
   * [Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html) by _J. Preskill_.
@@ -29,6 +29,7 @@
  </p>
 </details>
 
+</dev>
 -----
 ### Quantum Machine Learning
 #### Courses
