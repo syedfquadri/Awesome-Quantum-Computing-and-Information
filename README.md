@@ -15,15 +15,14 @@
  </summary>
  <p>
   
-  #### <details><summary>Courses</summary>
- <p>
+  #### <buttom>Courses</button>
+ <div>
   
   ##### Beginners
   ##### Intermediate
   ##### Advanced
   
-  </p>
-  </details>
+  </div>
   
   #### Lecture notes
   * [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/) by _J. Watrous_.
