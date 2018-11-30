@@ -2,7 +2,7 @@
  
 
 ## Table of Content
-* [Quantum Computation and Quantum Information](###Quantum-Computation-and-Quantum Information)
+* [Quantum Computation and Quantum Information](###Quantum-Computation-and-Quantum-Information)
 * [Quantum Machine Learning](###Quantum-Machine-Learning)
 * [Quantum Cryptography](###Quantum-Cryptography)
 
