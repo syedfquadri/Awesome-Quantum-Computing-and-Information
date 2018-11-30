@@ -8,7 +8,8 @@
 * [Miscellaneous](###Miscellaneous)
 * [Sources](###Sources)
 ----
-### Quantum Computation and Quantum Information
+<details><summary> ### Quantum Computation and Quantum Information </summary>
+ <p>
 #### Courses
 ##### Beginners
 ##### Intermediate
@@ -21,16 +22,15 @@
 * [Quantum Computation and Quantum Information: 10th Anniversary Edition](https://dl.acm.org/citation.cfm?id=1972505) by _M. Nielsen and I. Chuang._ - [PDF](http://csis.pace.edu/ctappert/cs837-18spring/QC-textbook.pdf)
 
 #### Blogs
-#### Major Conferences
 #### Wikis
-#### Papers 
+#### Papers
+</p>
 -----
 ### Quantum Machine Learning
 #### Courses
 #### Lecture notes
 #### Textbooks
 #### Blogs
-#### Major Conferences
 #### Wikis
 #### Papers
 -----
@@ -39,11 +39,12 @@
 #### Lecture notes
 #### Textbooks
 #### Blogs
-#### Major Conferences
 #### Wikis
 #### Papers
 -----
 ### Miscellaneous
+-----
+### Conferences
 -----
 ### Sources
 * [References](https://www.cs.umd.edu/class/spring2018/cmsc457/reference.html) of [CMSC/PHYS 457](https://www.cs.umd.edu/class/spring2018/cmsc457/reference.html) by [Xiaodi Wu](https://www.cs.umd.edu/~xwu/).
