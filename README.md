@@ -8,23 +8,27 @@
 * [Miscellaneous](###Miscellaneous)
 * [Sources](###Sources)
 ----
-<details><summary>Quantum Computation and Quantum Information</summary>
+<details>
+ <summary>
+  <h3>Quantum Computation and Quantum Information<\h3>
+ </summary>
  <p>
-  #### Courses
+  <h4>Courses</h4>
   ##### Beginners
   ##### Intermediate
   ##### Advanced
-  #### Lecture notes
+  <h4>Lecture notes</h4>
   * [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/) by _J. Watrous_.
   * [Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html) by _J. Preskill_.
   * [Quantum Computing](https://homepages.cwi.nl/~rdewolf/qc11.html) by _R. de Wolf_.
-  #### Textbook(s)
+  <h4>Textbook(s)</h4>
   * [Quantum Computation and Quantum Information: 10th Anniversary Edition](https://dl.acm.org/citation.cfm?id=1972505) by _M. Nielsen and I. Chuang._ - [PDF](http://csis.pace.edu/ctappert/cs837-18spring/QC-textbook.pdf)
-  #### Blogs
-  #### Wikis
-  #### Papers
+  <h4>Blogs</h4>
+  <h4>Wikis</h4>
+  <h4>Papers</h4>
  </p>
 </details>
+
 -----
 ### Quantum Machine Learning
 #### Courses
