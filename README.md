@@ -2,10 +2,11 @@
 
 ## Table of Content
 * [Quantum Computation and Quantum Information](Quantum-Computation-and-Quantum-Information)
-* [Quantum Machine Learning](###Quantum-Machine-Learning)
-* [Quantum Cryptography](###Quantum-Cryptography)
-* [Miscellaneous](###Miscellaneous)
-* [Sources](###Sources)
+* [Quantum Machine Learning](Quantum-Machine-Learning)
+* [Quantum Cryptography](Quantum-Cryptography)
+* [Miscellaneous](Miscellaneous)
+* [Sources](Sources)
+
 ----
 <details><summary>Quantum Computation and Quantum Information</summary>
 <ul>    
@@ -39,8 +40,6 @@
     </details>
 </ul>
 </details>
-
------
 <details><summary>Quantum Machine Learning</summary>
 <ul>    
     <details><summary>Courses</summary>
@@ -60,9 +59,6 @@
     </details>
 </ul>
 </details>
-
------
-
 <details><summary>Quantum Cryptography</summary>
 <ul>    
     <details><summary>Courses</summary>
@@ -82,18 +78,12 @@
     </details>
 </ul>
 </details>
-
------
 <details><summary>Miscellaneous</summary>
 <ul>
 </ul></details>
-
------
 <details><summary>Conferences</summary>
 <ul>
 </ul></details>
-
------
 <details><summary>Sources</summary>
 <ul>
 
