@@ -8,5 +8,28 @@
 
 
 ### Quantum Computation and Quantum Information
+#### Courses
+#### Lecture notes
+#### Textbooks
+#### Blogs
+#### Major Conferences
+#### Wikis
+#### Papers 
+
 ### Quantum Machine Learning
+#### Courses
+#### Lecture notes
+#### Textbooks
+#### Blogs
+#### Major Conferences
+#### Wikis
+#### Papers
+
 ### Quantum Cryptography
+#### Courses
+#### Lecture notes
+#### Textbooks
+#### Blogs
+#### Major Conferences
+#### Wikis
+#### Papers
