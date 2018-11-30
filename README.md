@@ -10,11 +10,17 @@
 ----
 <details><summary>Quantum Computation and Quantum Information</summary>
  <p>
- 
-  #### Courses
-  ##### Beginners
-  ##### Intermediate
-  ##### Advanced
+  
+  <details><summary>Courses</summary>
+   <p>
+    
+    ##### Beginners
+    ##### Intermediate
+    ##### Advanced
+   
+   </p>
+   </details>
+  
   #### Lecture notes
   * [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/) by _J. Watrous_.
   * [Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html) by _J. Preskill_.
