@@ -8,9 +8,12 @@
 * [Miscellaneous](###Miscellaneous)
 * [Sources](###Sources)
 ----
-<details><summary><h3>Quantum Computation and Quantum Information</h3></summary>
+<details>
+ <summary><h3>Quantum Computation and Quantum Information</h3></summary>
  <p>
-  <details><summary><h4>Courses</h4></summary></summary>
+  
+  <details>
+ <summary><h4>Courses</h4></summary></summary>
  <p>
  
  <h5>Beginners</h5>
