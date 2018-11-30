@@ -17,10 +17,9 @@
   
   <button>Courses</button>
 <div>
- 
- ##### Beginners
- ##### Intermediate
- ##### Advanced
+ <h5>Beginners</h5>
+ <h5>Intermediate</h5>
+ <h5>Advanced</h5>
 </div>
   
   #### Lecture notes
