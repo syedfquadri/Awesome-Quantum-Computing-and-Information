@@ -7,8 +7,7 @@
 * [Quantum Cryptography](###Quantum-Cryptography)
 * [Miscellaneous](###Miscellaneous)
 * [Sources](###Sources)
-
-
+----
 ### Quantum Computation and Quantum Information
 #### Courses
 ##### Beginners
@@ -25,7 +24,7 @@
 #### Major Conferences
 #### Wikis
 #### Papers 
-
+-----
 ### Quantum Machine Learning
 #### Courses
 #### Lecture notes
@@ -34,7 +33,7 @@
 #### Major Conferences
 #### Wikis
 #### Papers
-
+-----
 ### Quantum Cryptography
 #### Courses
 #### Lecture notes
@@ -43,6 +42,8 @@
 #### Major Conferences
 #### Wikis
 #### Papers
-
+-----
 ### Miscellaneous
+-----
 ### Sources
+* [References](https://www.cs.umd.edu/class/spring2018/cmsc457/reference.html) of [CMSC/PHYS 457](https://www.cs.umd.edu/class/spring2018/cmsc457/reference.html) by [Xiaodi Wu](https://www.cs.umd.edu/~xwu/).
