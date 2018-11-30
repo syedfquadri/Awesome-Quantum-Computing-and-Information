@@ -8,18 +8,18 @@
 * [Miscellaneous](###Miscellaneous)
 * [Sources](###Sources)
 ----
-<details><summary>Quantum Computation and Quantum Information</summary>
+### <details><summary>Quantum Computation and Quantum Information</summary>
  <p>
   
-  <details><summary>Courses</summary>
-   <p>
-    
-    ##### Beginners
-    ##### Intermediate
-    ##### Advanced
-   
-   </p>
-   </details>
+  #### <details><summary>Courses</summary>
+ <p>
+  
+  ##### Beginners
+  ##### Intermediate
+  ##### Advanced
+  
+  </p>
+  </details>
   
   #### Lecture notes
   * [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/) by _J. Watrous_.
