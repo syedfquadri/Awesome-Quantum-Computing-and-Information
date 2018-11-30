@@ -2,7 +2,8 @@
 
 <details><summary>Quantum Computation and Quantum Information</summary>
 <ul style="list-style-type:none">
-    <li><details><summary>Courses</summary>
+    <li><details>
+        <summary>Courses</summary>
     <ul style="list-style-type:none">
         <li><details><summary>Beginners</summary>
         </details></li>
