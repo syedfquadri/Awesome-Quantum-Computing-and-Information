@@ -6,6 +6,8 @@
             <ul style="list-style-type:none">
                 <details>
                     <summary>Beginners</summary>
+                    <li><a href="http://michaelnielsen.org/blog/quantum-computing-for-the-determined/" Quantum Computing for the Determined> by <i>Michael Nielsen</i>: I’ve posted to YouTube a series of 22 short videos giving an introduction to quantum computing. Unfortunatly the series is incomplete:
+                        >The course is not complete — I originally planned about 8 more videos. The extra videos would complete my summary of basic quantum mechanics (+2 videos), and cover reversible computing (+2 videos), and Grover’s quantum search algorithm (+4 videos). Unfortunately, work responsibilities that couldn’t be put aside meant I had to put the remaining videos on hold. If lots of people work through the existing videos and are keen for more, then I’ll find time to finish them off. As it is, I hope the incomplete series is still useful.
                 </details>
                 <details>
                     <summary>Intermediate</summary>
