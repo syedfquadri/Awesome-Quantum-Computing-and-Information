@@ -7,18 +7,14 @@
                 <details>
                     <summary>Beginners</summary>
                     <ul>
-                        <li><a href="http://michaelnielsen.org/blog/quantum-computing-for-the-determined/">Quantum Computing for the Determined</a> by <i>Michael Nielsen</i>: I’ve posted to YouTube a series of 22 short videos giving an introduction to quantum computing. Unfortunatly the series is incomplete:
-                            >The course is not complete — I originally planned about 8 more videos.
-                            >The extra videos would complete my summary of basic quantum mechanics (+2 videos), and cover reversible computing (+2 videos), and Grover’s quantum search algorithm (+4 videos).
-                        </li>
+                        <li><a href="http://michaelnielsen.org/blog/quantum-computing-for-the-determined/">Quantum Computing for the Determined</a> by <i>Michael Nielsen</i>: I’ve posted to YouTube a series of 22 short videos giving an introduction to quantum computing. Unfortunatly the series is incomplete.</li>
                 </details>
-                <details>
-                    <summary>Intermediate</summary>
-                </details>
-                <details>
-                    <summary>Advanced</summary>
-                </details>
-            </ul>
+        <details>
+            <summary>Intermediate</summary>
+        </details>
+        <details>
+            <summary>Advanced</summary>
+        </details></ul>
         </details>
         <details>
             <summary>Lecture notes</summary>
