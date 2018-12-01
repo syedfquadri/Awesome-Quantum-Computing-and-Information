@@ -11,9 +11,11 @@
                 </details>
         <details>
             <summary>Intermediate</summary>
+            Will be Updated soon!
         </details>
         <details>
             <summary>Advanced</summary>
+            Will be Updated soon!
         </details></ul>
         </details>
         <details>
@@ -33,73 +35,83 @@
     </ul>
 </details>
 
---------
 <details><summary>Quantum Machine Learning</summary>
     <ul>
         <details><summary>Courses</summary>
             <ul>
+                Will be Updated soon!
             </ul></details>
         <details><summary>Lecture notes</summary>
             <ul>
+                Will be Updated soon!
             </ul></details>
         <details><summary>Textbook(s)</summary>
             <ul>
+                Will be Updated soon!
             </ul></details>
     </ul>
 </details>
 
-------------------
 <details>
     <summary>Quantum Cryptography</summary>
     <ul>
         <details><summary>Courses</summary>
             <ul>
+                Will be Updated soon!
             </ul></details>
         <details><summary>Lecture notes</summary>
             <ul>
+                Will be Updated soon!
             </ul></details>
         <details><summary>Textbook(s)</summary>
             <ul>
+                Will be Updated soon!
             </ul></details>
     </ul>
 </details>
 
--------------
 <details>
     <summary>Blogs</summary>
     <ul>
+        Will be Updated soon!
     </ul>
 </details>
 
-----------------
 <details>
     <summary>Wikis</summary>
     <ul>
+        Will be Updated soon!
     </ul>
 </details>
 
--------------------
 <details>
     <summary>Papers</summary>
     <ul>
+        Will be Updated soon!
     </ul>
 </details>
 
----------------------------
 <details>
     <summary>Miscellaneous</summary>
     <ul>
+        Will be Updated soon!
     </ul>
 </details>
 
---------------
 <details>
     <summary>Conferences</summary>
     <ul>
+        Will be Updated soon!
     </ul>
 </details>
 
---------------------
+<details>
+    <summary>People to follow</summary>
+    <ul>
+        Will be Updated soon!
+    </ul>
+</details>
+
 <details>
     <summary>Sources</summary>
     <ul>
