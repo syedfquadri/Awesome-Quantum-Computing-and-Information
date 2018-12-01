@@ -73,7 +73,13 @@
 <details>
     <summary>Blogs</summary>
     <ul>
-        Will be Updated soon!
+        <li><a href="https://www.scottaaronson.com/blog/">Shtetl-Optimized</a>: Blog by <a href="https://www.scottaaronson.com/">Scott Aaronson</a>.</li>
+        <li><a href="https://quantumfrontiers.com/">Quantum Frontiers</a>: A blog by the Institute for Quantum Information and Matter, <i>Caltech</i>.</li>
+        <li><a href="http://dabacon.org/qspeak/">Quantum Information Science Announcements</a>: Quantum Information Science Announcements like <i>jobs, conferences, research opportunities, etc</i>. <a href="https://twitter.com/qisannounce">Twitter</a>.</li>
+        <li><a href="http://blog.qutech.nl/">Bits of Quantum</a>: A blog by <a href="https://qutech.nl/">QuTech</a> with three levels of difficulties.</li>
+        <li><a href="https://quantarei.wordpress.com/">QuantaRei</a>: Blog by the researchers of <a href="https://quantingham.wordpress.com/">Quantum Correlation Group</a> at <a href="http://www.nottingham.ac.uk/">University of Nottingham</a>.</li>
+        <li><a href="http://dabacon.org/pontiff/">The Quantum Pontiff</a>: Blog about the wondrous quantum world in which we live. </li>
+        <li><a href="https://uwaterloo.ca/institute-for-quantum-computing/blog/post/welcome-our-new-blog">Blog</a> by the <a href="https://uwaterloo.ca/institute-for-quantum-computing/">Institute for Quantum Computing</a> at <a href="https://uwaterloo.ca/">University of Waterloo</a>.</li>
     </ul>
 </details>
 
