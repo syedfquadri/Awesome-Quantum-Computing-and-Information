@@ -4,12 +4,15 @@
     <ul style="list-style-type:none">
         <li><details><summary>Courses</summary>
             <ul style="list-style-type:none">
-                <li><details><summary>Beginners</summary>
-                    </details></li>
-                <li><details><summary>Intermediate</summary>
-                    </details></li>
-                <li><details><summary>Advanced</summary>
-                    </details></li>
+                <details>
+                    <summary>Beginners</summary>
+                </details>
+                <details>
+                    <summary>Intermediate</summary>
+                </details>
+                <details>
+                    <summary>Advanced</summary>
+                </details>
             </ul>
             </details></li>
         <li><details><summary>Lecture notes</summary>
