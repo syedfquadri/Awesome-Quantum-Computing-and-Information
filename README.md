@@ -103,5 +103,6 @@
 <details>
     <summary>Sources</summary>
     <ul>
+        <li><a href="https://www.cs.umd.edu/class/spring2018/cmsc457/reference.html">References</a> of <a href="https://www.cs.umd.edu/class/spring2018/cmsc457/index.html">CMSC/PHYS 457</a> by <a href="https://www.cs.umd.edu/~xwu/">Xiaodi Wu</a>.</li>
     </ul>
 </details>
