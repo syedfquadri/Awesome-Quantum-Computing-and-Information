@@ -1,3 +1,6 @@
+<! DOCTYPE html>
+<head>
+    <body>
 <h1>Quantum-Computing</h1>
 
 <details><summary>Quantum Computation and Quantum Information</summary>
@@ -79,3 +82,5 @@
 </ul></details>
 
 <details><summary>Sources</summary>
+</body>
+</head>
