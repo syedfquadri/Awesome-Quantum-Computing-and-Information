@@ -56,38 +56,43 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.136"
-     inkscape:cx="471.77421"
-     inkscape:cy="389.24397"
+     inkscape:zoom="0.40163665"
+     inkscape:cx="377.82539"
+     inkscape:cy="557.08007"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg900" />
-  <path
-     fill="#FC60A8"
-     d="M614.2 91l-150-137.6-21.1 23L568.1 91H75.4l125-114.7-21.1-23L29.3 91h-.1v90.7c0 41 39.5 74.4 88 74.4h92.5c48.5 0 88-33.4 88-74.4v-59.6h48v59.6c0 41 39.5 74.4 88 74.4h92.5c48.5 0 88-33.4 88-74.4V91z"
-     id="path898"
-     style="fill:#00b6ff;fill-opacity:1" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:38.16233063px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.95405823;stroke-opacity:1"
-     x="119.65597"
-     y="204.98251"
-     id="text1453"><tspan
-       sodipodi:role="line"
-       id="tspan1451"
-       x="119.65597"
+     inkscape:current-layer="svg900"
+     showborder="false" />
+  <g
+     id="g846"
+     transform="matrix(0.76387758,0,0,0.76387758,79.960546,-137.27813)">
+    <path
+       style="fill:#00b6ff;fill-opacity:1"
+       id="path898"
+       d="m 614.2,91 -150,-137.6 -21.1,23 125,114.6 H 75.4 l 125,-114.7 -21.1,-23 L 29.3,91 h -0.1 v 90.7 c 0,41 39.5,74.4 88,74.4 h 92.5 c 48.5,0 88,-33.4 88,-74.4 v -59.6 h 48 v 59.6 c 0,41 39.5,74.4 88,74.4 h 92.5 c 48.5,0 88,-33.4 88,-74.4 z"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text1453"
        y="204.98251"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:114.48699188px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.95405823;stroke-opacity:1">Q</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:47.68432617px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19210815;stroke-opacity:1"
-     x="428.31314"
-     y="226.36417"
-     id="text1453-2"><tspan
-       sodipodi:role="line"
-       id="tspan1451-9"
-       x="428.31314"
+       x="119.65597"
+       style="font-style:normal;font-weight:normal;font-size:38.16233063px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.95405823;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:114.48699188px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.95405823;stroke-opacity:1"
+         y="204.98251"
+         x="119.65597"
+         id="tspan1451"
+         sodipodi:role="line">Q</tspan></text>
+    <text
+       id="text1453-2"
        y="226.36417"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:143.05297852px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19210815;stroke-opacity:1">C</tspan></text>
+       x="428.31314"
+       style="font-style:normal;font-weight:normal;font-size:47.68432617px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19210815;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:143.05297852px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19210815;stroke-opacity:1"
+         y="226.36417"
+         x="428.31314"
+         id="tspan1451-9"
+         sodipodi:role="line">C</tspan></text>
+  </g>
 </svg>
