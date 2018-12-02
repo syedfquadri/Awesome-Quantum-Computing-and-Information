@@ -1,28 +1,26 @@
 # Awesome Quantum Computing and Information [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
 
 <details><summary>Quantum Computation and Quantum Information</summary>
-    <ul style="list-style-type:none">
-        <details><summary>Courses</summary>
-            <ul>
-                <li><a href="http://michaelnielsen.org/blog/quantum-computing-for-the-determined/">Quantum Computing for the Determined</a> by <i>Michael Nielsen</i>: I’ve posted to YouTube a series of 22 short videos giving an introduction to quantum computing. Unfortunatly the series is incomplete.</li>
+    <ul>
+    <details><summary>Courses</summary>
+    <ul>
+        <li><a href="http://michaelnielsen.org/blog/quantum-computing-for-the-determined/">Quantum Computing for the Determined</a> by <i>Michael Nielsen</i>: I’ve posted to YouTube a series of 22 short videos giving an introduction to quantum computing. Unfortunatly the series is incomplete.</li>
                 <li><a href="https://www.edx.org/course/quantum-mechanics-everyone-georgetownx-phyx-008-01x">Quantum Mechanics for Everyone</a>: Learn the fundamental notions of quantum mechanics at a level that is accessible to everyone by <a href="https://www.georgetown.edu/">Georgetown University</a>.</li>
                 <li><a href="https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x">Quantum Mechanics and Quantum Computation</a> by <i>V. Umesh</i> at UCBerkley. [<a href="https://www.youtube.com/playlist?list=PL2jykFOD1AWap0r8WOuZ-08BFgMyx-5RT">Youtube</a>] : Unfortunatly the list isn't complete.</li>
-            </ul>
-        </details></ul>
-        <details>
-            <summary>Lecture notes</summary>
-            <ul style="list-style-type:circle">
-                <li><a href="https://cs.uwaterloo.ca/~watrous/TQI/">The Theory of Quantum Information</a> by <i>J. Watrous</i>.</li>
-                <li><a href="http://www.theory.caltech.edu/~preskill/ph219/index.html">Quantum Computation</a> by <i>J. Preskill</i>.</li>
-                <li><a href="https://homepages.cwi.nl/~rdewolf/qc11.html">Quantum Computing</a> by <i>R. de Wolf</i>.</li>
-            </ul style="list-style-type:circle">
-            </details>
-        <details>
-            <summary>Textbook(s)</summary>
-            <ul style="list-style-type:circle">
-                <li> <a href="https://dl.acm.org/citation.cfm?id=1972505">Quantum Computation and Quantum Information: 10th Anniversary Edition</a> by <i>M. Nielsen</i> and <i>I. Chuang</i>. - [<a href="http://csis.pace.edu/ctappert/cs837-18spring/QC-textbook.pdf"> PDF </a>] </li>
-            </ul>
-            </details>
+    </ul>
+    </details>
+    <details><summary>Lecture notes</summary>
+    <ul>
+        <li><a href="https://cs.uwaterloo.ca/~watrous/TQI/">The Theory of Quantum Information</a> by <i>J. Watrous</i>.</li>
+        <li><a href="http://www.theory.caltech.edu/~preskill/ph219/index.html">Quantum Computation</a> by <i>J. Preskill</i>.</li>
+        <li><a href="https://homepages.cwi.nl/~rdewolf/qc11.html">Quantum Computing</a> by <i>R. de Wolf</i>.</li>
+    </ul>
+    </details>
+    <details><summary>Textbook(s)</summary>
+    <ul>
+        <li> <a href="https://dl.acm.org/citation.cfm?id=1972505">Quantum Computation and Quantum Information: 10th Anniversary Edition</a> by <i>M. Nielsen</i> and <i>I. Chuang</i>. - [<a href="http://csis.pace.edu/ctappert/cs837-18spring/QC-textbook.pdf"> PDF </a>] </li>
+    </ul>
+    </details>
     </ul>
 </details>
 
