@@ -1,4 +1,4 @@
-# Awesome-Quantum-Computing-and-Information [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
+# Awesome Quantum Computing and Information [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
 
 <details><summary>Quantum Computation and Quantum Information</summary>
     <ul style="list-style-type:none">
