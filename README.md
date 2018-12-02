@@ -3,27 +3,12 @@
 <details><summary>Quantum Computation and Quantum Information</summary>
     <ul style="list-style-type:none">
         <details><summary>Courses</summary>
-            <ul style="list-style-type:none">
-                <details>
-                    <summary>Beginners</summary>
-                    <ul>
-                        <li><a href="http://michaelnielsen.org/blog/quantum-computing-for-the-determined/">Quantum Computing for the Determined</a> by <i>Michael Nielsen</i>: I’ve posted to YouTube a series of 22 short videos giving an introduction to quantum computing. Unfortunatly the series is incomplete.</li>
-                        <li><a href="https://www.edx.org/course/quantum-mechanics-everyone-georgetownx-phyx-008-01x">Quantum Mechanics for Everyone</a>: Learn the fundamental notions of quantum mechanics at a level that is accessible to everyone by <a href="https://www.georgetown.edu/">Georgetown University</a>.</li>
-                        <li><a href="https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x">Quantum Mechanics and Quantum Computation</a> by <i>V. Umesh</i> at UCBerkley. [<a href="https://www.youtube.com/playlist?list=PL2jykFOD1AWap0r8WOuZ-08BFgMyx-5RT">Youtube</a>] : Unfortunatly the list isn't complete.</li>
-                </details>
-        <details>
-            <summary>Intermediate</summary>
             <ul>
-                Will be Updated soon!
+                <li><a href="http://michaelnielsen.org/blog/quantum-computing-for-the-determined/">Quantum Computing for the Determined</a> by <i>Michael Nielsen</i>: I’ve posted to YouTube a series of 22 short videos giving an introduction to quantum computing. Unfortunatly the series is incomplete.</li>
+                <li><a href="https://www.edx.org/course/quantum-mechanics-everyone-georgetownx-phyx-008-01x">Quantum Mechanics for Everyone</a>: Learn the fundamental notions of quantum mechanics at a level that is accessible to everyone by <a href="https://www.georgetown.edu/">Georgetown University</a>.</li>
+                <li><a href="https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x">Quantum Mechanics and Quantum Computation</a> by <i>V. Umesh</i> at UCBerkley. [<a href="https://www.youtube.com/playlist?list=PL2jykFOD1AWap0r8WOuZ-08BFgMyx-5RT">Youtube</a>] : Unfortunatly the list isn't complete.</li>
             </ul>
-        </details>
-        <details>
-            <summary>Advanced</summary>
-            <ul>
-                Will be Updated soon!
-            <ul>
         </details></ul>
-        </details>
         <details>
             <summary>Lecture notes</summary>
             <ul style="list-style-type:circle">
@@ -63,7 +48,7 @@
     <ul>
         <details><summary>Courses</summary>
             <ul>
-                Will be Updated soon!
+                <li><a href="https://www.edx.org/course/quantum-cryptography-0">Quantum Cryptography</a> by QuTech and Caltech.</li>
             </ul></details>
         <details><summary>Lecture notes</summary>
             <ul>
