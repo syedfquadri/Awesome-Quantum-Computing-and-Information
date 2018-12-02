@@ -1,7 +1,5 @@
 # Awesome-Quantum-Computing-and-Information [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
 
-<img style="float: center;" src="awesomelogo.svg">
-
 <details><summary>Quantum Computation and Quantum Information</summary>
     <ul style="list-style-type:none">
         <details><summary>Courses</summary>
