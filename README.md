@@ -1,4 +1,4 @@
-# Awesome-Quantum-Computing [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
+# Awesome-Quantum-Computing-and-Information [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
 
 <img style="float: center;" src="awesomelogo.svg">
 
