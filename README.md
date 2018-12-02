@@ -1,4 +1,4 @@
-<h1>Quantum-Computing</h1>
+<h1>Awesome-Quantum-Computing</h1>[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 <details><summary>Quantum Computation and Quantum Information</summary>
     <ul style="list-style-type:none">
@@ -13,11 +13,15 @@
                 </details>
         <details>
             <summary>Intermediate</summary>
-            Will be Updated soon!
+            <ul>
+                Will be Updated soon!
+            </ul>
         </details>
         <details>
             <summary>Advanced</summary>
-            Will be Updated soon!
+            <ul>
+                Will be Updated soon!
+            <ul>
         </details></ul>
         </details>
         <details>
