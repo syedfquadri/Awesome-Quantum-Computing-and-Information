@@ -115,7 +115,7 @@
                 <li>IBM <a href="https://github.com/quantumlib/Cirq">Q Experience</a></li>
                 <li>Xanadu <a href="https://strawberryfields.readthedocs.io/en/latest/quantum_algorithms.html">Strawberry Fields</a></li>
                 <li><a href="http://qutip.org/docs/latest/index.html">QuTiP</a>: A Python framework for the dynamics of open quantum systems.</li>
-                <li>Rigetti <a href="https://www.rigetti.com/qpu">QPU, <a href="https://www.rigetti.com/forest">Forest</a></li>
+                <li>Rigetti <a href="https://www.rigetti.com/qpu">QPU</a>, <a href="https://www.rigetti.com/forest">Forest</a>,<a href="http://docs.rigetti.com/en/stable/">PyQuil</a>.</li>
             </ul>
         </details>    
     </ul>
