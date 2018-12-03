@@ -76,9 +76,10 @@
 </details>
 
 <details>
-    <summary>Wikis</summary>
+    <summary>Videos and Talks</summary>
     <ul>
         <li><a href="https://www.youtube.com/watch?v=YX40hbAHx3s">P vs. NP and the Computational Complexity Zoo</a></li>
+        <li><a href="https://www.youtube.com/watch?v=F2okky5vD8k">Universal quantum computation</a>: A part of <a href="https://www.youtube.com/playlist?list=PL1826E60FD05B44E4">Quantum Computing for Determined</a> series.</li>
         <li><a href="https://www.youtube.com/watch?v=JvIbrDR1G_c">What Quantum Computing Isn't | Scott Aaronson | TEDxDresden</a></li>
         <li><a href="https://www.youtube.com/watch?v=0jrybODBUpA">Scott Aaronson on Computational Complexity Theory and Quantum Computers</a></li>
         <li><a href="https://www.youtube.com/watch?v=MYHYBwgZuyc">Peter Wittek: Quantum Machine Learning and its Discontents</a></li>
@@ -90,9 +91,9 @@
         <li><a href="https://www.youtube.com/watch?v=uxL-wbuvpj0">A Universal Training Algorithm for Quantum Deep Learning</a></li>
         <li>Steve Simon - Topological Quantum Computing: [<a href="https://www.youtube.com/watch?v=FAiiXp9IoBk">Part-I</a>] [<a href="https://www.youtube.com/watch?v=0OAalFxhUS8">Part-II</a>]</li>
         <li><a href="https://www.youtube.com/watch?v=GYHdutMfoX4">Fred Chong: Closing the Gap Between Quantum Algorithms and Hardware</a> at <i>Yale</i></li>
-    </ul>
+        </ul>
 </details>
-<summary>Videos and Talks</summary>
+<details><summary>Wikis</summary>
     <ul>
         <li><a href="https://www.quantiki.org/wiki/index">Quantifi</a></li>
         <li><a href="https://complexityzoo.uwaterloo.ca/Complexity_Zoo">Complexity Zoo</a></li>
