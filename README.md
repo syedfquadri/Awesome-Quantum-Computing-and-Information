@@ -78,6 +78,22 @@
 <details>
     <summary>Wikis</summary>
     <ul>
+        <li><a href="https://www.youtube.com/watch?v=YX40hbAHx3s">P vs. NP and the Computational Complexity Zoo</a></li>
+        <li><a href="https://www.youtube.com/watch?v=JvIbrDR1G_c">What Quantum Computing Isn't | Scott Aaronson | TEDxDresden</a></li>
+        <li><a href="https://www.youtube.com/watch?v=0jrybODBUpA">Scott Aaronson on Computational Complexity Theory and Quantum Computers</a></li>
+        <li><a href="https://www.youtube.com/watch?v=MYHYBwgZuyc">Peter Wittek: Quantum Machine Learning and its Discontents</a></li>
+        <li><a href="https://www.youtube.com/watch?v=FNqQ8BMN8jo">TDLS- Quantum generative adversarial networks</a></li>
+        <li><a href="https://www.youtube.com/watch?v=5nfN8xT3Z8g">Seth Lloyd: Quantum Generative Adversarial Networks</a></li>
+        <li><a href="https://www.youtube.com/watch?v=Lbndu5EIWvI&t=1490s">Seth Lloyd: Quantum Machine Learning</a> at keio University, Japan</li>
+        <li><a href="https://www.youtube.com/watch?v=wkBPp9UovVU&t=845s">Seth Lloyd: Quantum Machine Learning</a> at Google Tech Talks</li>
+        <li><a href="https://www.youtube.com/watch?v=KtIPAPyaPOg">Seth Llyod: Quantum algorithm for solving linear equations</a> [<i>HHL Algorithm</i>] at Keio University, Japan</li>
+        <li><a href="https://www.youtube.com/watch?v=uxL-wbuvpj0">A Universal Training Algorithm for Quantum Deep Learning</a></li>
+        <li>Steve Simon - Topological Quantum Computing: [<a href="https://www.youtube.com/watch?v=FAiiXp9IoBk">Part-I</a>] [<a href="https://www.youtube.com/watch?v=0OAalFxhUS8">Part-II</a>]</li>
+        <li><a href="https://www.youtube.com/watch?v=GYHdutMfoX4">Fred Chong: Closing the Gap Between Quantum Algorithms and Hardware</a> at <i>Yale</i></li>
+    </ul>
+</details>
+<summary>Videos and Talks</summary>
+    <ul>
         <li><a href="https://www.quantiki.org/wiki/index">Quantifi</a></li>
         <li><a href="https://complexityzoo.uwaterloo.ca/Complexity_Zoo">Complexity Zoo</a></li>
         <li><a href="https://math.nist.gov/quantum/zoo/">Quantum Algorithm Zoo</a></li>
@@ -118,7 +134,7 @@
                 <li><a href="http://qutip.org/docs/latest/index.html">QuTiP</a>: A Python framework for the dynamics of open quantum systems.</li>
                 <li>Rigetti <a href="https://www.rigetti.com/qpu">QPU</a>, <a href="https://www.rigetti.com/forest">Forest</a>,<a href="http://docs.rigetti.com/en/stable/">PyQuil</a>.</li>
             </ul>
-        </details>    
+        </details>
     </ul>
 </details>
 
