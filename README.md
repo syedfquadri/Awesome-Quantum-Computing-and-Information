@@ -19,6 +19,7 @@
     <details><summary>Textbook(s)</summary>
     <ul>
         <li> <a href="https://dl.acm.org/citation.cfm?id=1972505">Quantum Computation and Quantum Information: 10th Anniversary Edition</a> by <i>M. Nielsen</i> and <i>I. Chuang</i>. - [<a href="http://csis.pace.edu/ctappert/cs837-18spring/QC-textbook.pdf"> PDF </a>] </li>
+        <li><a href="https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965#customerReviews">Quantum Computing for Computer Scientists</a></li>
     </ul>
     </details>
     </ul>
