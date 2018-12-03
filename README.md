@@ -108,7 +108,15 @@
 <details>
     <summary>Miscellaneous</summary>
     <ul>
-        Will be Updated soon!
+        <details><summary>Tools</summary>
+            <ul>
+                <li>D-Wave <a href="https://www.dwavesys.com/take-leap">Leap</a></li>
+                <li>Google <a href="https://github.com/quantumlib/Cirq">Cirq</a></li>
+                <li>IBM <a href="https://github.com/quantumlib/Cirq">Q Experiance</a></li>
+                <li>Xanadu <a href="https://strawberryfields.readthedocs.io/en/latest/quantum_algorithms.html">Strawberry Fields</a></li>
+                <li>Rigetti <a href="https://www.rigetti.com/qpu">QPU, <a href="https://www.rigetti.com/forest">Forest</a></li>
+            </ul>
+        </details>    
     </ul>
 </details>
 
