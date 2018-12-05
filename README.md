@@ -37,7 +37,7 @@
             </ul></details>
         <details><summary>Textbook(s)</summary>
             <ul>
-                Will be Updated soon!
+                <li><a href="http://peterwittek.com/book.html">Quantum Machine Learning</a>: What Quantum Computing Means to Data Mining by <i><a href="http://peterwittek.com/">Peter Wittek</a></i></li>
             </ul></details>
     </ul>
 </details>
