@@ -122,7 +122,9 @@
         <li><strong><a href="https://arxiv.org/abs/1802.06002">Classification with Quantum Neural Networks on Near Term Processors</a></strong></li>
         <li><strong><a href="https://arxiv.org/abs/1205.3782">Universal computation by multi-particle quantum walk</a></strong></li>
         <li><strong><a href="https://arxiv.org/abs/1709.02779">Machine learning & artificial intelligence in the quantum domain</a></strong></li>
-        
+        <li> <strong><a href="https://arxiv.org/abs/1801.00862">Quantum Computing in the NISQ era and beyond</a></strong></li>
+        <li><strong><a href="https://arxiv.org/abs/1801.04418">Satellite-relayed intercontinental quantum network</a></strong>***</li>
+        <li><strong><a href="https://arxiv.org/abs/1606.05853">Practical challenges in quantum key distribution</a></strong></li>
     </ul>
 </details>
 
