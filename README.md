@@ -121,6 +121,8 @@
         <li><strong><a href="https://arxiv.org/abs/1707.08561">Quantum machine learning: a classical perspective</a></strong></li>
         <li><strong><a href="https://arxiv.org/abs/1802.06002">Classification with Quantum Neural Networks on Near Term Processors</a></strong></li>
         <li><strong><a href="https://arxiv.org/abs/1205.3782">Universal computation by multi-particle quantum walk</a></strong></li>
+        <li><strong><a href="https://arxiv.org/abs/1709.02779">Machine learning & artificial intelligence in the quantum domain</a></strong></li>
+        
     </ul>
 </details>
 
