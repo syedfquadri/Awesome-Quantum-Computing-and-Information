@@ -152,6 +152,8 @@
         <li>Quantum Information Processing (<a href="https://qipconference.org/">QIP</a>): Conference series on Quantum Information Processing. [<a href="http://jila.colorado.edu/qip2019/">QIP2019</a>]</li>
         <li><a href="http://2018.qcrypt.net/">QCrypt</a></li>
         <li<a href="http://qcmc18.phys.lsu.edu/home.htm">QCMC</a>: The International Conference on Quantum Communication, Measurement and Computing (QCMC) was established in 1990 to encourage and bring together scientists and engineers working in the interdisciplinary field of quantum information science and technology.</li>
+        <li><a href="https://www.tqcconference.org/">TQC</a></li>
+        <li><a href="https://www.nature.com/npjqi/">npj Quantum Information</a></li>
     </ul>
 </details>
 
