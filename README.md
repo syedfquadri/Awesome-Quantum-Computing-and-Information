@@ -72,6 +72,7 @@
         <li>A <a href="https://uwaterloo.ca/institute-for-quantum-computing/blog/post/welcome-our-new-blog">Blog</a> by the <a href="https://uwaterloo.ca/institute-for-quantum-computing/">Institute for Quantum Computing</a> at <a href="https://uwaterloo.ca/">University of Waterloo</a>.</li>
         <li>A <a href="https://terrytao.wordpress.com/">Blog</a> by Terence Tao, on his research and expository papers, discussion of open problems, and other maths-related topics.</li>
         <li>A <a href="https://quantum-journal.org/blog#">Blog</a> by the open-journal, <a href="https://quantum-journal.org">Quantum</a>: "Quantum is an open-access peer-reviewed journal for quantum science and related fields".</li>
+        <li><a href="https://silky.github.io/posts/2016-12-11-quantum-neural-networks.html">Quantum neural networks</a> by <a href="https://silky.github.io/">Noon van der Silk</a>.</li>
     </ul>
 </details>
 
