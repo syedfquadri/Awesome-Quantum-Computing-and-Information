@@ -161,7 +161,7 @@
 <details>
     <summary>People to follow</summary>
     <ul>
-        Will be Updated soon!
+        Will be Updated soon.!
     </ul>
 </details>
 
