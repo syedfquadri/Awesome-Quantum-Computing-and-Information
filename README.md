@@ -93,6 +93,7 @@
         <li><a href="https://www.youtube.com/watch?v=uxL-wbuvpj0">A Universal Training Algorithm for Quantum Deep Learning</a></li>
         <li>Steve Simon - Topological Quantum Computing: [<a href="https://www.youtube.com/watch?v=FAiiXp9IoBk">Part-I</a>] [<a href="https://www.youtube.com/watch?v=0OAalFxhUS8">Part-II</a>]</li>
         <li><a href="https://www.youtube.com/watch?v=GYHdutMfoX4">Fred Chong: Closing the Gap Between Quantum Algorithms and Hardware</a> at <i>Yale</i></li>
+        <li><a href="https://www.youtube.com/watch?v=MozDSajpLTY">Shoucheng Zhang: "Quantum Computing, AI and Blockchain: The Future of IT"</a> at <i>Talks at Google</i></li>
         </ul>
 </details>
 <details><summary>Wikis</summary>
