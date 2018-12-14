@@ -37,7 +37,7 @@
             </ul></details>
         <details><summary>Textbook(s)</summary>
             <ul>
-                <li><a href="http://peterwittek.com/book.html">Quantum Machine Learning</a>: What Quantum Computing Means to Data Mining by <i><a href="http://peterwittek.com/">Peter Wittek</a></i></li>
+                <li><a href="http://peterwittek.com/book.html">Quantum Machine Learning</a>: What Quantum Computing Means to Data Mining by <i><a href="http://peterwittek.com/">Peter Wittek</a></i> [<a href="https://doc.lagout.org/Others/Data%20Mining/Quantum%20Machine%20Learning_%20What%20Quantum%20Computing%20Means%20to%20Data%20Mining%20%5BWittek%202014-08-28%5D.pdf">PDF</a>]</li>
             </ul></details>
     </ul>
 </details>
