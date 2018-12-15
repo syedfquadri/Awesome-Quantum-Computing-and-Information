@@ -17,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="385">
-                <caret line="98" column="23" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
+              <first_editor relative-caret-position="232">
+                <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -110,7 +110,8 @@
       <workItem from="1544607914194" duration="11000" />
       <workItem from="1544757743759" duration="1440000" />
       <workItem from="1544790498628" duration="1819000" />
-      <workItem from="1544897166975" duration="179000" />
+      <workItem from="1544897166975" duration="418000" />
+      <workItem from="1544897650557" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="pycharm test01">
       <created>1544467454188</created>
@@ -154,17 +155,24 @@
       <option name="project" value="LOCAL" />
       <updated>1544790998356</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="talks and videos updated">
+      <created>1544897381291</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544897381291</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6772000" />
+    <option name="totallyTimeSpent" value="7022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2065053" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20953101" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -195,7 +203,8 @@
     <MESSAGE value="pycharm test02" />
     <MESSAGE value="qml book pdf link added" />
     <MESSAGE value="quantumcast playlist added" />
-    <option name="LAST_COMMIT_MESSAGE" value="quantumcast playlist added" />
+    <MESSAGE value="talks and videos updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="talks and videos updated" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/awesomelogo.svg">
@@ -204,8 +213,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="385">
-            <caret line="98" column="23" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
+          <first_editor relative-caret-position="232">
+            <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>
