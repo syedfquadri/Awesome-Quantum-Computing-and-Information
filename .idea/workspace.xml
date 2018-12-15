@@ -18,7 +18,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="385">
-                <caret line="96" column="127" selection-start-line="96" selection-start-column="127" selection-end-line="96" selection-end-column="127" />
+                <caret line="98" column="23" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -109,7 +109,8 @@
       <workItem from="1544522328750" duration="1660000" />
       <workItem from="1544607914194" duration="11000" />
       <workItem from="1544757743759" duration="1440000" />
-      <workItem from="1544790498628" duration="465000" />
+      <workItem from="1544790498628" duration="1819000" />
+      <workItem from="1544897166975" duration="179000" />
     </task>
     <task id="LOCAL-00001" summary="pycharm test01">
       <created>1544467454188</created>
@@ -146,17 +147,24 @@
       <option name="project" value="LOCAL" />
       <updated>1544757946341</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="quantumcast playlist added">
+      <created>1544790998355</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544790998356</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5239000" />
+    <option name="totallyTimeSpent" value="6772000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.027231468" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2065053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -186,7 +194,8 @@
     <MESSAGE value="pycharm test01" />
     <MESSAGE value="pycharm test02" />
     <MESSAGE value="qml book pdf link added" />
-    <option name="LAST_COMMIT_MESSAGE" value="qml book pdf link added" />
+    <MESSAGE value="quantumcast playlist added" />
+    <option name="LAST_COMMIT_MESSAGE" value="quantumcast playlist added" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/awesomelogo.svg">
@@ -196,7 +205,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="385">
-            <caret line="96" column="127" selection-start-line="96" selection-start-column="127" selection-end-line="96" selection-end-column="127" />
+            <caret line="98" column="23" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
           </first_editor>
           <second_editor />
         </state>
