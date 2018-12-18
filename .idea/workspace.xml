@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5d60d8db-50c7-4d21-8323-96fa8cb124ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="232">
-                <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+              <first_editor relative-caret-position="283">
+                <caret line="101" column="33" lean-forward="true" selection-end-line="179" />
               </first_editor>
               <second_editor />
             </state>
@@ -111,7 +110,8 @@
       <workItem from="1544757743759" duration="1440000" />
       <workItem from="1544790498628" duration="1819000" />
       <workItem from="1544897166975" duration="418000" />
-      <workItem from="1544897650557" duration="11000" />
+      <workItem from="1544897650557" duration="77000" />
+      <workItem from="1544957867288" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="pycharm test01">
       <created>1544467454188</created>
@@ -162,17 +162,24 @@
       <option name="project" value="LOCAL" />
       <updated>1544897381291</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="talks and videos updated02">
+      <created>1544897678847</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544897678847</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7022000" />
+    <option name="totallyTimeSpent" value="7101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20953101" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21255673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -204,7 +211,8 @@
     <MESSAGE value="qml book pdf link added" />
     <MESSAGE value="quantumcast playlist added" />
     <MESSAGE value="talks and videos updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="talks and videos updated" />
+    <MESSAGE value="talks and videos updated02" />
+    <option name="LAST_COMMIT_MESSAGE" value="talks and videos updated02" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/awesomelogo.svg">
@@ -213,8 +221,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="232">
-            <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+          <first_editor relative-caret-position="283">
+            <caret line="101" column="33" lean-forward="true" selection-end-line="179" />
           </first_editor>
           <second_editor />
         </state>
