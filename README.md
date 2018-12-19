@@ -133,6 +133,8 @@ and <i>Kristan Temme</i>.</li>
         <li><strong><a href="https://arxiv.org/abs/1606.05853">Practical challenges in quantum key distribution</a></strong></li>
         <li><strong><a href="https://arxiv.org/abs/1811.12420">Using a Recurrent Neural Network to Reconstruct Quantum Dynamics of a Superconducting Qubit from Physical Observations</a></strong></li>
 	<li><strong><a href="https://arxiv.org/abs/1802.06002">Classification with Quantum Neural Networks on Near Term Processors</a></strong></li>
+	<li><strong><a href="https://arxiv.org/abs/1810.03787">Quantum Convolutional Neural Networks</a></strong></li>
+	<li><strong><a href="https://arxiv.org/abs/1809.01090">A Quantum Spatial Graph Convolutional Neural Network using Quantum Passing Information</a></strong></li>
     </ul>
 </details>
 
