@@ -136,6 +136,7 @@ and <i>Kristan Temme</i>.</li>
 	<li><strong><a href="https://arxiv.org/abs/1810.03787">Quantum Convolutional Neural Networks</a></strong></li>
 	<li><strong><a href="https://arxiv.org/abs/1809.01090">A Quantum Spatial Graph Convolutional Neural Network using Quantum Passing Information</a></strong></li>
 	<li><strong><a href="https://arxiv.org/abs/1812.06693">Adaptive Quantum State Tomography with Neural Networks</a></strong></li>
+	<li><strong><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208561#sec002">Open source software in quantum computing</a></strong></li>
     </ul>
 </details>
 
