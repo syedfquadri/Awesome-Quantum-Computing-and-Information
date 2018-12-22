@@ -98,6 +98,7 @@
         <li><a href="https://www.youtube.com/playlist?list=PLQY2H8rRoyvwcpm6Nf-fL4sIYQUXtq3HR">QuantumCasts</a> by <i>Google</i> </li>
         <li><a href="https://www.youtube.com/watch?v=vfJuvNuSPKw">What can Quantum do for AI?</a> by <i>Yoshua Bengio</i>, <i>Aram Harrow</i>, <i>Peter Shor</i>,
 and <i>Kristan Temme</i>.</li>
+	<li><a href="https://www.youtube.com/watch?v=OdVSNNvWikQ">Quantum Computing - The Qubit Technology Revolution</a></li>
         </ul>
 </details>
 <details><summary>Wikis</summary>
