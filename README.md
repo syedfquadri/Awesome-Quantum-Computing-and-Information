@@ -154,6 +154,11 @@ and <i>Kristan Temme</i>.</li>
                 <li>Rigetti <a href="https://www.rigetti.com/qpu">QPU</a>, <a href="https://www.rigetti.com/forest">Forest</a>,<a href="http://docs.rigetti.com/en/stable/">PyQuil</a>.</li>
             </ul>
         </details>
+	<details><summary>Interesting Reads</summary>
+            <ul>
+                <li><a href="https://www.forbes.com/sites/forbestechcouncil/2018/12/21/the-quantum-application-era-is-coming-is-your-organization-prepared-for-it/#8374b30e6bcf">The Quantum Application Era Is Coming: Is Your Organization Prepared For It?>The Quantum Application Era Is Coming: Is Your Organization Prepared For It?</a></li>
+                </ul>
+        </details>
     </ul>
 </details>
 
