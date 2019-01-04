@@ -74,7 +74,7 @@
         <li>A <a href="https://quantum-journal.org/blog#">Blog</a> by the open-journal, <a href="https://quantum-journal.org">Quantum</a>: "Quantum is an open-access peer-reviewed journal for quantum science and related fields".</li>
         <li><a href="https://silky.github.io/posts/2016-12-11-quantum-neural-networks.html">Quantum neural networks</a> by <a href="https://silky.github.io/">Noon van der Silk</a>.</li>
 	<li><a href="https://ai.googleblog.com/2018/12/exploring-quantum-neural-networks.html">Exploring Quantum Neural Networks</a> by <i>Google AI</i></li>
-    </ul>
+	</ul>
 </details>
 
 <details>
@@ -156,8 +156,9 @@ and <i>Kristan Temme</i>.</li>
         </details>
 	<details><summary>Interesting Reads</summary>
             <ul>
-                <li><a href="https://www.forbes.com/sites/forbestechcouncil/2018/12/21/the-quantum-application-era-is-coming-is-your-organization-prepared-for-it/#8374b30e6bcf">The Quantum Application Era Is Coming: Is Your Organization Prepared For It?>The Quantum Application Era Is Coming: Is Your Organization Prepared For It?</a></li>
-                </ul>
+                <li><a href="https://www.forbes.com/sites/forbestechcouncil/2018/12/21/the-quantum-application-era-is-coming-is-your-organization-prepared-for-it/#8374b30e6bcf">The Quantum Application Era Is Coming: Is Your Organization Prepared For It?</a></li>
+		<li><a href="https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15">Deep Learning meets Physics: Restricted Boltzmann Machines Part I</a></li>
+   	 </ul>
         </details>
     </ul>
 </details>
