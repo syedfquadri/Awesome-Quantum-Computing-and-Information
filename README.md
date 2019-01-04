@@ -74,6 +74,8 @@
         <li>A <a href="https://quantum-journal.org/blog#">Blog</a> by the open-journal, <a href="https://quantum-journal.org">Quantum</a>: "Quantum is an open-access peer-reviewed journal for quantum science and related fields".</li>
         <li><a href="https://silky.github.io/posts/2016-12-11-quantum-neural-networks.html">Quantum neural networks</a> by <a href="https://silky.github.io/">Noon van der Silk</a>.</li>
 	<li><a href="https://ai.googleblog.com/2018/12/exploring-quantum-neural-networks.html">Exploring Quantum Neural Networks</a> by <i>Google AI</i></li>
+	<li><a href="https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15">Deep Learning meets Physics: Restricted Boltzmann Machines Part I</a></li>
+   	<li><a href="https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-ii-4b159dce1ffb">Deep Learning meets Physics: Restricted Boltzmann Machines Part II</a></li> 
 	</ul>
 </details>
 
