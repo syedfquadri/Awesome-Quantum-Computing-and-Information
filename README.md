@@ -161,6 +161,7 @@ and <i>Kristan Temme</i>.</li>
             <ul>
                 <li><a href="https://www.forbes.com/sites/forbestechcouncil/2018/12/21/the-quantum-application-era-is-coming-is-your-organization-prepared-for-it/#8374b30e6bcf">The Quantum Application Era Is Coming: Is Your Organization Prepared For It?</a></li>
 		<li><a href="https://gizmodo.com/the-unlikely-origins-of-the-first-quantum-computer-1831054476">The Unlikely Origins of the First Quantum Computer</a></li>
+		<li><a href="https://www.technologyreview.com/s/612421/us-china-quantum-arms-race/">The US and China are in a quantum arms race that will transform warfare</a></li>
 		</ul>
         </details>
     </ul>
