@@ -84,7 +84,8 @@
     <ul>
 	<li><a href="https://www.youtube.com/watch?v=F_Riqjdh2oM">Quantum Computing for Computer Scientists</a> [<a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/05/40655.compressed.pdf">Slides</a>]</li>
         <li><a href="https://www.youtube.com/watch?v=YX40hbAHx3s">P vs. NP and the Computational Complexity Zoo</a></li>
-        <li><a href="https://www.youtube.com/watch?v=mQsi5PpbZ54">AWS re:Invent 2018: Pragmatic Quantum Machine Learning Today (AIS308) </a> [Nov-2018] by <i>Peter Wittek</i> from <i>University of Toronto</i>.</li>
+        <li><a href="https://www.youtube.com/watch?v=IrbJYsep45E">The Mathematics of Quantum Computers | Infinite Series</a></li>
+	<li><a href="https://www.youtube.com/watch?v=mQsi5PpbZ54">AWS re:Invent 2018: Pragmatic Quantum Machine Learning Today (AIS308) </a> [Nov-2018] by <i>Peter Wittek</i> from <i>University of Toronto</i>.</li>
         <li><a href="https://www.youtube.com/watch?v=F2okky5vD8k">Universal quantum computation</a>: A part of <a href="https://www.youtube.com/playlist?list=PL1826E60FD05B44E4">Quantum Computing for Determined</a> series.</li>
         <li><a href="https://www.youtube.com/watch?v=JvIbrDR1G_c">What Quantum Computing Isn't | Scott Aaronson | TEDxDresden</a></li>
         <li><a href="https://www.youtube.com/watch?v=0jrybODBUpA">Scott Aaronson on Computational Complexity Theory and Quantum Computers</a></li>
