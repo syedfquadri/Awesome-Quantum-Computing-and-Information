@@ -82,6 +82,7 @@
 <details>
     <summary>Videos and Talks</summary>
     <ul>
+	<li><a href="https://www.youtube.com/playlist?list=PLPvKnT7dgEsvVQwGgrlUVXBa2J6PAW8a4">Quantum Annealing Explained| D-Wave</a></li>
 	<li><a href="https://www.youtube.com/watch?v=F_Riqjdh2oM">Quantum Computing for Computer Scientists</a> [<a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/05/40655.compressed.pdf">Slides</a>]</li>
         <li><a href="https://www.youtube.com/watch?v=YX40hbAHx3s">P vs. NP and the Computational Complexity Zoo</a></li>
         <li><a href="https://www.youtube.com/watch?v=IrbJYsep45E">The Mathematics of Quantum Computers | Infinite Series</a></li>
