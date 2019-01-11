@@ -29,7 +29,7 @@
     <ul>
         <details><summary>Courses</summary>
             <ul>
-                Will be Updated soon!
+                <li><a href="https://www.edx.org/course/quantum-machine-learning">Quantum Machine Leanring</a> but UoT on EdX</li>
             </ul></details>
         <details><summary>Lecture notes</summary>
             <ul>
