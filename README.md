@@ -82,6 +82,7 @@
 <details>
     <summary>Videos and Talks</summary>
     <ul>
+	<li><a href="https://www.youtube.com/watch?v=574nu_cUjm4">Nathan Wiebe: Optimizing Quantum Optimization Algorithms via Faster Quantum Gradient Computation</a></li>
 	<li><a href="https://www.youtube.com/playlist?list=PLPvKnT7dgEsvVQwGgrlUVXBa2J6PAW8a4">Quantum Annealing Explained| D-Wave</a></li>
 	<li><a href="https://www.youtube.com/watch?v=F_Riqjdh2oM">Quantum Computing for Computer Scientists</a> [<a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/05/40655.compressed.pdf">Slides</a>]</li>
         <li><a href="https://www.youtube.com/watch?v=YX40hbAHx3s">P vs. NP and the Computational Complexity Zoo</a></li>
@@ -143,6 +144,8 @@ and <i>Kristan Temme</i>.</li>
 	<li><strong><a href="https://arxiv.org/abs/1809.01090">A Quantum Spatial Graph Convolutional Neural Network using Quantum Passing Information</a></strong></li>
 	<li><strong><a href="https://arxiv.org/abs/1812.06693">Adaptive Quantum State Tomography with Neural Networks</a></strong></li>
 	<li><strong><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208561#sec002">Open source software in quantum computing</a></strong></li>
+	<li><strong><a href="https://arxiv.org/abs/1711.00465">Optimizing quantum optimization algorithms via faster quantum gradient computation</a></strong></li>
+	<li><strong><a href="https://arxiv.org/abs/1401.2142">Quantum Algorithms for Nearest-Neighbor Methods for Supervised and Unsupervised Learning</a></strong></li>
     </ul>
 </details>
 
