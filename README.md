@@ -29,7 +29,7 @@
     <ul>
         <details><summary>Courses</summary>
             <ul>
-                <li><a href="https://www.edx.org/course/quantum-machine-learning">Quantum Machine Learning</a> but UoT on EdX</li>
+                <li><a href="https://www.edx.org/course/quantum-machine-learning">Quantum Machine Learning</a> by UoT on EdX</li>
             </ul></details>
         <details><summary>Lecture notes</summary>
             <ul>
